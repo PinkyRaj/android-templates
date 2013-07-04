@@ -232,4 +232,4 @@ LICENSE
  limitations under the License.
 
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/90f3c9974d385c03c29020dfcf76b869 "githalytics.com")](http://githalytics.com/Siminov/andiorm-template)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/f423e443f4fc035eeb0ccf84cb7abdbe "githalytics.com")](http://githalytics.com/Siminov/android-templates)
