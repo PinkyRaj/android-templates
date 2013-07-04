@@ -84,4 +84,4 @@ LICENSE
  limitations under the License.
 
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/4d3da649b2b4d4b3113052fe17587569 "githalytics.com")](http://githalytics.com/Siminov/andiorm-sqlcipher-template)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/f423e443f4fc035eeb0ccf84cb7abdbe "githalytics.com")](http://githalytics.com/Siminov/android-templates)
