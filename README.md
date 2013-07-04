@@ -46,4 +46,4 @@ LICENSE
  limitations under the License.
 
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/19753132b6959ef292734dade9e3556e "githalytics.com")](http://githalytics.com/Siminov/andiorm-library-template)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/f423e443f4fc035eeb0ccf84cb7abdbe "githalytics.com")](http://githalytics.com/Siminov/android-templates)
